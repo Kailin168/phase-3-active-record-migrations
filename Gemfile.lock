@@ -64,6 +64,8 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-21
+  ruby
   universal-darwin-20
 
 DEPENDENCIES
